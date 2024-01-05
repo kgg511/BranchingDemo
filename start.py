@@ -19,8 +19,6 @@ def guess_number(): #mind boggling program
   print("Reading your mind")
   print(f"your number is {n}")
 
-  while True:
-    print("bad code")
 
 
 guess_number()
